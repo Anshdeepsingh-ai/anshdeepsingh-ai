@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Anshdeep Singh 👋
 
-<!--
-**Anshdeepsingh-ai/anshdeepsingh-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Enthusiast | Machine Learning | Generative AI | Python
 
-Here are some ideas to get you started:
+I'm passionate about building intelligent applications using
+Machine Learning, Generative AI, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+- Machine Learning
+- Generative AI
+- Large Language Models (LLMs)
+- AI-powered applications
+- Python
+
+## 🛠️ Tech Stack
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow / PyTorch
+- LangChain
+- Git & GitHub
+
+## 📌 Featured Projects
+
+- 🤖 Machine Learning Project
+- 🧠 Generative AI Project
+- 📊 Data Science Project
+- 💬 LLM Application
+
+## 📫 Connect With Me
+
+- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/anshdeepsingh-ai-ml/)
+- GitHub: [YOUR_GITHUB_URL](https://github.com/Anshdeepsingh-ai)
