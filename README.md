@@ -1,36 +1,158 @@
-# Hi, I'm Anshdeep Singh 👋
+<div align="center">
 
-### AI/ML Enthusiast | Machine Learning | Generative AI | Python
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Anshdeep%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20Python&descAlignY=58&descSize=18" width="100%"/>
 
-I'm passionate about building intelligent applications using
-Machine Learning, Generative AI, and Python.
+<br/>
 
-## What I'm Working On
+<img src="https://img.shields.io/badge/📍-Ludhiana-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
+<a href="https://www.linkedin.com/in/anshdeepsingh-ai-ml/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://github.com/Anshdeepsingh-ai"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
 
-- Machine Learning
-- Generative AI
-- Large Language Models (LLMs)
-- AI-powered applications
-- Python
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```text
+anshdeep@github:~$ whoami
+
+Name        Anshdeep Singh
+Role        Software Developer, AI/ML Enthusiast
+Edu         B.Tech CSE, LPU — 3rd Year
+Focus       ML · Deep Learning · GenAI · Python
+Base        Ludhiana, India
+
+anshdeep@github:~$ cat about.txt
+
+Building practical, scalable solutions
+with modern technologies. Always
+learning, building, and improving.
+
+anshdeep@github:~$ _
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Current Focus
+
+- 🧠 Strengthening Machine Learning & Deep Learning fundamentals
+- 🤖 Learning Generative AI & Prompt Engineering
+- 🐍 Applying Python to real-world data and AI problems
+- 🏗️ Building core CS foundations — DSA, DBMS, OS, Computer Networks
+
+### Featured Project
+
+**AI Learning Document Intelligence Project**
+
+### Training Program
+
+**Campus to Corporate: Industry-Ready Data & AI Engineer Program**
+*June 2026 – July 2026*
+
+SQL · Python · Machine Learning · Artificial Intelligence
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
-- TensorFlow / PyTorch
-- LangChain
-- Git & GitHub
+<div align="center">
 
-## 📌 Featured Projects
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-- 🤖 Machine Learning Project
-- 🧠 Generative AI Project
-- 📊 Data Science Project
-- 💬 LLM Application
+<br/><br/>
 
-## 📫 Connect With Me
+**AI / Machine Learning**
+<br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-6c63ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-6c63ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-6c63ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-6c63ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6c63ff?style=flat-square"/>
 
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/anshdeepsingh-ai-ml/)
-- GitHub: [YOUR_GITHUB_URL](https://github.com/Anshdeepsingh-ai)
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
+<br/><br/>
+
+**Databases & CS Foundations**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2b2b2b?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBMS-2b2b2b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-2b2b2b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-2b2b2b?style=flat-square"/>
+
+</div>
+
+<br/>
+
+## 🎓 Education
+
+| | |
+|---|---|
+| **Degree** | Computer Science and Engineering |
+| **Institution** | Lovely Professional University |
+| **Year** | 3rd Year |
+
+## 📜 Certifications
+
+- 🎯 **Programming using C++** — Infosys, August 2025
+- 🎯 **Intermediate English as a Second Language** — Saylor, July 2025
+- 🎯 **Data Management (Excel and Tableau)** — Tech Veda, March 2025
+- 🎯 **Web Development** — Rising Tech Pro
+
+## 🏆 Achievements & Community Contribution
+
+- 🤝 Represented **Rehras Sewa Society, Ludhiana** (March 2026) — Collaborated with multiple NGOs and shared insights
+- 🏅 **Award of Honor**, Rehras Sewa Society (July 2025) — Recognized for contribution toward collection of 60 units of blood after an awareness camp
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Anshdeepsingh-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshdeepsingh-ai&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/anshdeepsingh-ai-ml/"><img src="https://img.shields.io/badge/LinkedIn-Anshdeep%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+
+</div>
