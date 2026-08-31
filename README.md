@@ -145,8 +145,8 @@ Lovely Professional University · 3rd Year
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anshdeepsingh-ai&show_icons=true&theme=default&hide_border=true&count_private=true&icon_color=302b63&title_color=302b63&text_color=333333" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshdeepsingh-ai&theme=default&hide_border=true&background=FFFFFF00&ring=302b63&fire=302b63&currStreakLabel=302b63" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anshdeepsingh-ai&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshdeepsingh-ai&theme=dark&hide_border=true&background=00000000" height="165"/>
 
 </div>
 
