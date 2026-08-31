@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍-Ludhiana-6c63ff?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Location-Ludhiana-2b2d42?style=for-the-badge&labelColor=1a1a2e" />
 <a href="https://www.linkedin.com/in/anshdeepsingh-ai-ml/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
 <a href="https://github.com/Anshdeepsingh-ai"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
 
@@ -39,10 +39,10 @@ anshdeep@github:~$ _
 
 ### Current Focus
 
-- 🧠 Strengthening Machine Learning & Deep Learning fundamentals
-- 🤖 Learning Generative AI & Prompt Engineering
-- 🐍 Applying Python to real-world data and AI problems
-- 🏗️ Building core CS foundations — DSA, DBMS, OS, Computer Networks
+- Strengthening Machine Learning and Deep Learning fundamentals
+- Learning Generative AI and Prompt Engineering
+- Applying Python to real-world data and AI problems
+- Building core CS foundations — DSA, DBMS, OS, Computer Networks
 
 ### Featured Project
 
@@ -61,7 +61,7 @@ SQL · Python · Machine Learning · Artificial Intelligence
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -79,11 +79,11 @@ SQL · Python · Machine Learning · Artificial Intelligence
 
 **AI / Machine Learning**
 <br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-6c63ff?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-6c63ff?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-6c63ff?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative%20AI-6c63ff?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6c63ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-2b2d42?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-2b2d42?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-2b2d42?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-2b2d42?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2b2d42?style=flat-square"/>
 
 <br/><br/>
 
@@ -105,49 +105,46 @@ SQL · Python · Machine Learning · Artificial Intelligence
 **Databases & CS Foundations**
 <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2b2b2b?style=flat-square"/>
-<img src="https://img.shields.io/badge/DBMS-2b2b2b?style=flat-square"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-2b2b2b?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-2b2b2b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2b2d42?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBMS-2b2d42?style=flat-square"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-2b2d42?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-2b2d42?style=flat-square"/>
 
 </div>
 
 <br/>
 
-## 🎓 Education
+## Education
 
-| | |
-|---|---|
-| **Degree** | Computer Science and Engineering |
-| **Institution** | Lovely Professional University |
-| **Year** | 3rd Year |
+**Computer Science and Engineering**
+Lovely Professional University · 3rd Year
 
-## 📜 Certifications
+## Certifications
 
-- 🎯 **Programming using C++** — Infosys, August 2025
-- 🎯 **Intermediate English as a Second Language** — Saylor, July 2025
-- 🎯 **Data Management (Excel and Tableau)** — Tech Veda, March 2025
-- 🎯 **Web Development** — Rising Tech Pro
+- **Programming using C++** — Infosys, August 2025
+- **Intermediate English as a Second Language** — Saylor, July 2025
+- **Data Management (Excel and Tableau)** — Tech Veda, March 2025
+- **Web Development** — Rising Tech Pro
 
-## 🏆 Achievements & Community Contribution
+## Achievements & Community Contribution
 
-- 🤝 Represented **Rehras Sewa Society, Ludhiana** (March 2026) — Collaborated with multiple NGOs and shared insights
-- 🏅 **Award of Honor**, Rehras Sewa Society (July 2025) — Recognized for contribution toward collection of 60 units of blood after an awareness camp
+- Represented **Rehras Sewa Society, Ludhiana** (March 2026) — collaborated with multiple NGOs and shared insights
+- **Award of Honor**, Rehras Sewa Society (July 2025) — recognized for contribution toward collection of 60 units of blood after an awareness camp
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anshdeepsingh-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshdeepsingh-ai&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anshdeepsingh-ai&show_icons=true&theme=default&hide_border=true&count_private=true&icon_color=2b2d42&title_color=2b2d42&text_color=333333" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshdeepsingh-ai&theme=default&hide_border=true&background=FFFFFF00&ring=2b2d42&fire=2b2d42&currStreakLabel=2b2d42" height="165"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-### 🤝 Let's Connect
+### Connect
 
 <a href="https://www.linkedin.com/in/anshdeepsingh-ai-ml/"><img src="https://img.shields.io/badge/LinkedIn-Anshdeep%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
