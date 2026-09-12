@@ -137,7 +137,7 @@ Lovely Professional University · 3rd Year
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anshdeepsingh-ai&theme=dark&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anshdeepsingh-ai&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
@@ -166,12 +166,12 @@ Lovely Professional University · 3rd Year
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/output/grade.svg" height="200"/>
-<img src="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/output/most_commit_language.svg" height="200"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anshdeepsingh-ai&theme=github_dark" height="200"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshdeepsingh-ai&theme=github_dark" height="200"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/output/productive_time.svg" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anshdeepsingh-ai&theme=github_dark&utcOffset=5" width="100%"/>
 
 </div>
 
