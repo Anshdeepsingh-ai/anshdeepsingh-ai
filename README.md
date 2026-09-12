@@ -133,6 +133,16 @@ Lovely Professional University · 3rd Year
 
 <br/>
 
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anshdeepsingh-ai&theme=dark&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<br/>
+
 ## GitHub Activity
 
 <div align="center">
@@ -149,6 +159,23 @@ Lovely Professional University · 3rd Year
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshdeepsingh-ai&theme=dark&hide_border=true&background=00000000" height="165"/>
 
 </div>
+
+<br/>
+
+## 3D Contribution Skyline
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br/>
 
