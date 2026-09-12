@@ -162,6 +162,21 @@ Lovely Professional University · 3rd Year
 
 <br/>
 
+## Contribution Overview
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/output/grade.svg" height="200"/>
+<img src="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/output/most_commit_language.svg" height="200"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/output/productive_time.svg" width="100%"/>
+
+</div>
+
+<br/>
+
 ## 3D Contribution Skyline
 
 <div align="center">
