@@ -2,11 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # regenerates once a day at midnight UTC
-  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
   push:
     branches:
       - main
+
+concurrency:
+  group: generate-snake-animation
+  cancel-in-progress: true
 
 jobs:
   generate:
