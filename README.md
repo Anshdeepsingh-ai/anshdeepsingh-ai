@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Anshdeep%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Developer%20%E2%80%A2%20Software%20Developer&descAlignY=54&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Anshdeep%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20Generative%20AI&descAlignY=54&descSize=17" width="100%" alt="Anshdeep Singh — AI/ML Developer, Python, Generative AI"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B87F0&center=true&vCenter=true&width=600&lines=Building+practical+AI%2FML+solutions;Python+%C3%97+Machine+Learning+%C3%97+Generative+AI;Always+learning%2C+building%2C+improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B87F0&center=true&vCenter=true&width=600&lines=Building+practical+AI%2FML+applications;Python+%C3%97+Machine+Learning+%C3%97+Generative+AI;Learning+by+building%2C+one+project+at+a+time" alt="Typing animation summarizing focus areas" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Location-Ludhiana%2C%20India-1a1a2e?style=flat-square&labelColor=302b63"/>
 <img src="https://img.shields.io/badge/B.Tech-CSE%2C%20AI%2FML-1a1a2e?style=flat-square&labelColor=302b63"/>
+<img src="https://img.shields.io/badge/Focus-AI%2FML%20Engineering-1a1a2e?style=flat-square&labelColor=302b63"/>
 
 <br/><br/>
 
@@ -20,32 +21,31 @@
 
 ## About Me
 
-I'm a third-year Computer Science and Engineering student at Lovely Professional University, building toward a career in AI/ML engineering and software development. My approach combines strong CS fundamentals — data structures, DBMS, operating systems, networks — with practical, hands-on work in Machine Learning, Deep Learning, and Generative AI.
+I'm a third-year Computer Science and Engineering student at Lovely Professional University, building toward a career in AI/ML engineering and software development. I combine strong CS fundamentals — data structures, DBMS, operating systems, and computer networks — with hands-on work in Machine Learning, Deep Learning, and Generative AI.
 
-I'm not positioning myself as an expert; I'm someone actively building, experimenting, and improving. I care about writing clean, working code and understanding systems deeply enough to build real, usable applications rather than isolated exercises.
+I care about writing clean, working code and understanding systems well enough to ship real, usable applications rather than isolated exercises. Most of what's below comes from building things end-to-end: taking a project from an idea to something that actually runs.
 
 <br/>
 
-## Currently Building / Learning
+## 🔭 Currently Building
 
-<table>
-<tr>
-<td>🤖 Machine Learning</td>
-<td>🧠 Deep Learning</td>
-<td>✨ Generative AI</td>
-</tr>
-<tr>
-<td>🐍 Python</td>
-<td>📚 CS Fundamentals</td>
-<td>🚀 Real-world AI Applications</td>
-</tr>
-</table>
+- AI-powered document intelligence applications
+- Practical Machine Learning projects
+- NLP and Generative AI applications
+- Data-driven Python applications
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning & Deep Learning
+- Natural Language Processing
+- Generative AI application architecture
+- MLOps fundamentals
 
 <br/>
 
 ## Tech Stack
 
-**Languages**
+**Programming**
 <br/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -61,18 +61,18 @@ I'm not positioning myself as an expert; I'm someone actively building, experime
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
-**Development**
+**Application Development**
 <br/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-**Data & Databases**
+**Databases**
 <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 
-**Tools**
+**Developer Tools**
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -87,17 +87,36 @@ I'm not positioning myself as an expert; I'm someone actively building, experime
 
 <br/>
 
-## Featured Project
+## 🚀 Featured Project
 
-<table>
-<tr>
-<td>
+### 📚 AI Learning & Document Intelligence Platform
 
-**AI Learning Document Intelligence Project**
+A Streamlit application that turns uploaded documents (PDF, DOCX, TXT) into an interactive study tool: it extracts text, summarizes it, lets you chat with the document, and generates MCQs, study notes, and keyword extractions on top of it. Document history and stats are persisted with SQLite, and results can be exported.
 
-</td>
-</tr>
-</table>
+**Tech:** Python · Streamlit · SQLite · Google Gemini API · PyMuPDF · python-docx · pandas · NumPy · scikit-learn · KeyBERT · python-dotenv
+
+**Repository:** `[ADD ACTUAL REPOSITORY LINK]`
+
+<br/>
+
+## Other Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Sentiment-analysis](https://github.com/Anshdeepsingh-ai/Sentiment-analysis) | Sentiment classification on text data. | Python · ML · NLP |
+| [pet-product-advisor-](https://github.com/Anshdeepsingh-ai/pet-product-advisor-) | AI/ML-based advisor for pet product recommendations. | Python · ML/AI |
+| [Plastic-Footprints](https://github.com/Anshdeepsingh-ai/Plastic-Footprints) | Application exploring plastic-footprint tracking. | Python |
+| [Book-Store](https://github.com/Anshdeepsingh-ai/Book-Store) | Book store application. | Python |
+
+<details>
+<summary>Smaller / practice projects</summary>
+
+- [pythoncode](https://github.com/Anshdeepsingh-ai/pythoncode)
+- [snake-water-gun-game](https://github.com/Anshdeepsingh-ai/snake-water-gun-game)
+
+</details>
+
+*Repository names above are linked directly from my GitHub — please verify casing on your end before publishing, in case any repo has since been renamed.*
 
 <br/>
 
@@ -129,7 +148,7 @@ Lovely Professional University · 3rd Year
 ## Achievements & Community
 
 - Represented **Rehras Sewa Society, Ludhiana** (March 2026) — collaborated with multiple NGOs and shared insights
-- **Award of Honor**, Rehras Sewa Society (July 2025) — recognized for contribution toward collection of 60 units of blood after an awareness camp
+- **Award of Honor**, Rehras Sewa Society (July 2025) — recognized for contribution toward the collection of 60 units of blood after an awareness camp
 
 <br/>
 
@@ -140,28 +159,17 @@ Lovely Professional University · 3rd Year
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="Animated snake moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/Anshdeepsingh-ai/Anshdeepsingh-ai/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anshdeepsingh-ai&show_icons=true&theme=dark&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshdeepsingh-ai&theme=dark&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anshdeepsingh-ai&show_icons=true&theme=dark&hide_border=true" height="165" alt="Anshdeep Singh's GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshdeepsingh-ai&theme=dark&hide_border=true" height="165" alt="Anshdeep Singh's GitHub streak stats"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-## Contribution Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anshdeepsingh-ai&theme=github_dark" height="200"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshdeepsingh-ai&theme=github_dark" height="200"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anshdeepsingh-ai&theme=github_dark&utcOffset=5" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshdeepsingh-ai&theme=github_dark" height="200" alt="Most-used languages by commit"/>
 
 </div>
 
